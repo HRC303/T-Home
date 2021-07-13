@@ -1,6 +1,6 @@
-![Terkey Termux Key](screenshot.jpg)
+![T-Home Termux Key]
 
-# Terkey
+# T-Home
 Is a tool for add keys to your Termux app.
 
 ## How to install
@@ -9,20 +9,20 @@ Is a tool for add keys to your Termux app.
 * `$ pkg install python`
 * `$ pkg install git`
 * `$ git clone https://github.com/karjok/terkey`
-* `$ cd terkey`
-* `$ python terkey.py`
+* `$ cd T-Home`
+* `$ python Tombol.py`
 
 
 Or you can just copy code bellow and paste to your Termux app and of course, press enter !
 
-```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/karjok/terkey;cd terkey;python terkey.py```
+```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/karjok/terkey;cd T-Home;python Tombol.py```
 
 ## How to use?
 In latest update, i made this tool with userfriendly interface, so you can follow the menu.
 
 ## Feature !
 
-As you can see in inage above, Terkey has 3 menu,
+As you can see in inage above, T-Home has 3 menu,
 
 1. Use Default Keys
 1. Custom Keys
