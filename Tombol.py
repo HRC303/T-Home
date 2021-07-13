@@ -14,7 +14,7 @@ class Terkey:
   # Banner
   def banner(self):
       os.system('clear')
-      print(f'{c}Terkey {a}[{c}Termux Key{a}]'.center(68))
+      print(f'{c}T-Home {a}[{c}Termux Key{a}]'.center(68))
       print(f'{a}Zonared Cybery'.center(53))
       print("".join([i for i in "\n"*2]))
 
@@ -65,10 +65,10 @@ class Terkey:
   def about(self):
     self.banner()
     print(f"""
-    {a}W E L C O M E  !{c}
+    {a}WELCOME TO ZONARED  !{c}
 
     This is Terkey, the Termux Key shortcut !
-    A program from {a}Karjok Pangesty{c} for you.
+    A program from {a}Zonared Cyber Security{c} for you.
     This tool is only for Termux app and absolutely FREE !
 
     You can find all default keys in this program at
