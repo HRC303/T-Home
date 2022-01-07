@@ -8,7 +8,7 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/zonaredXXII/T-Home.git
+* `$ git clone https://github.com/HRC303/T-Home
 * `$ cd T-Home`
 * `$ python Tombol.py`
 
